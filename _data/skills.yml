@@ -1,18 +1,18 @@
 - skill:
-  name: Python & Django
-  level: 98%
-- skill:
-  name: Javascript & jQuery
-  level: 98%
-- skill:
-  name: Angular
-  level: 98%
-- skill:
-  name: HTML5 & CSS
+  name: Team Building
   level: 95%
 - skill:
-  name: Ruby on Rails
-  level: 85%
+  name: Product Development
+  level: 90%
 - skill:
-  name: Sketch & Photoshop
-  level: 60%
+  name: Machine Learning and Artificial Intelligence
+  level: 75%
+- skill:
+  name: Kubernetes
+  level: 75%
+- skill:
+  name: Agile Scrum Master
+  level: 95%
+- skill:
+  name: HTML5, CSS, Vue and Laravel
+  level: 80%
